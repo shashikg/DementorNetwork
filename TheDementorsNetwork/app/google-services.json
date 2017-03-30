@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1036812875076",
+    "firebase_url": "https://thedementorsnetwork.firebaseio.com",
+    "project_id": "thedementorsnetwork",
+    "storage_bucket": "thedementorsnetwork.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036812875076:android:6a66dc445a999856",
+        "android_client_info": {
+          "package_name": "com.example.shashi.thedementorsnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036812875076-a2a9v6t2lnj0uekr10cpd0sv4n0iuf5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shashi.thedementorsnetwork",
+            "certificate_hash": "29a3efc24a56bfcd3fa2d464339c5a94652ea59e"
+          }
+        },
+        {
+          "client_id": "1036812875076-dm67gd92vjvmlehtj4hlphf312ov724s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBErx4uhZCWaK6okI51uBqFZ53l72wPg9M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036812875076-dm67gd92vjvmlehtj4hlphf312ov724s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
